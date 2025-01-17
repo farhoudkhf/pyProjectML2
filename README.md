@@ -8,7 +8,7 @@
     <li>#4 Dimension Reduction Methods</li>
     <li>#5 Other Popular Machine Learning Methods</li>
     <li>#6 Getting Started with Natural Language Processing</li>
-    <li>#7 Getting Started with Generative  AI Models</li>
+    <li>#7 Getting Started with Generative AI Models</li>
     <li>Conclusion</li>
 </uk>
 
