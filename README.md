@@ -16,8 +16,8 @@
 <br /> 11/Jan Sat Intro and code setups and repo [completed]
 <br /> 15/Jan Wed #1 Introduction to Machine Learning [completed 11/Jan]
 <br /> 15/Jan Thu #2 Regression Models [outOf10_1:10,test][completed 15/Jan]
-<br /> 17/Jan Sat #3 Clustering Models [][]
-<br /> 18/Jan Sun #4 Dimension Reduction Methods
-<br /> 19/Jan Mon #5 Other Popular Machine Learning Methods
-<br /> 21/Jan Tue #6 Getting Started with Natural Language Processing
-<br /> 22/Jan Wed #7 Getting Started with Generative  AI Models
+<br /> 17/Jan Sat #3 Clustering Models [][completed 21/Jan]
+<br /> 18/Jan Sun #4 Dimension Reduction Methods [][completed 21/Jan]
+<br /> 19/Jan Mon #5 Other Popular Machine Learning Methods [newP 23-Jan][]
+<br /> 21/Jan Tue #6 Getting Started with Natural Language Processing [newP 24-Jan][]
+<br /> 22/Jan Wed #7 Getting Started with Generative  AI Models [newP 27-Jan][]
