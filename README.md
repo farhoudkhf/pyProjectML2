@@ -18,6 +18,6 @@
 <br /> 15/Jan Thu #2 Regression Models [outOf10_1:10,test][completed 15/Jan]
 <br /> 17/Jan Sat #3 Clustering Models [][completed 21/Jan]
 <br /> 18/Jan Sun #4 Dimension Reduction Methods [][completed 21/Jan]
-<br /> 19/Jan Mon #5 Other Popular Machine Learning Methods [2ndNewP 25-Jan][]
+<br /> 19/Jan --> 26/Jan Mon #5 Other Popular Machine Learning Methods [3rdNewP 26-Jan][]
 <br /> 21/Jan Tue #6 Getting Started with Natural Language Processing [newP 27-Jan][]
 <br /> 22/Jan Wed #7 Getting Started with Generative  AI Models [newP 28-Jan][]
