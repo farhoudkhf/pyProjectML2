@@ -21,3 +21,11 @@
 <br /> 19/Jan --> 26/Jan Mon #5 Other Popular Machine Learning Methods [3rdNewP 26-Jan][]
 <br /> 21/Jan Tue #6 Getting Started with Natural Language Processing [newP 27-Jan][]
 <br /> 22/Jan Wed #7 Getting Started with Generative  AI Models [newP 28-Jan][]
+
+[2nd:Plan - 2025 April] 
+<br /> 16/April review Chapter #1-#4
+<br /> 17/April review Chapter #5
+<br /> 18/April #6
+<br /> xx/April #7
+<br /> xx/April Conclusion 
+<br /> xx/April upload the course
