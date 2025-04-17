@@ -22,10 +22,11 @@
 <br /> 21/Jan Tue #6 Getting Started with Natural Language Processing [newP 27-Jan][]
 <br /> 22/Jan Wed #7 Getting Started with Generative  AI Models [newP 28-Jan][]
 
-[2nd:Plan - 2025 April] 
-<br /> 16/April review Chapter #1-#4
-<br /> 17/April review Chapter #5
-<br /> 18/April #6
+[2nd_Revised:Plan - 2025 April] 
+<br /> 16/April review Chapter #1-#2
+<br /> 17/April review Chapter #3-#4
+<br /> 18/April review Chapter #5
+<br /> 19/April #6
 <br /> xx/April #7
 <br /> xx/April Conclusion 
 <br /> xx/April upload the course
