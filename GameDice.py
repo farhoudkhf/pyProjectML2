@@ -30,4 +30,9 @@ for i in range(9, -1, -1):
 # print("dice1: ", d1, "dice2: ", d2)
 print("player1Point total: ", player1Point)
 print("player2Point total: ", player2Point)
-print("Player One is the winner!" if player1PointTotal > player2PointTotal else "Player Two is the winner!" if player2PointTotal > player1PointTotal else "tie / equal score")
+print("Player One is the winner!" 
+      if player1PointTotal > player2PointTotal 
+      else "Player Two is the winner!" 
+      if player2PointTotal > player1PointTotal 
+      else "tie / equal score")
+
