@@ -25,8 +25,14 @@
 [2nd_Revised:Plan - 2025 April] 
 <br /> 16/April review Chapter #1-#2
 <br /> 17/April review Chapter #3-#4
-<br /> 18/April review Chapter #5
-<br /> 19/April #6
-<br /> xx/April #7
-<br /> xx/April Conclusion 
-<br /> xx/April upload the course
+<br /> 15/May review Chapter #5
+<br /> 16/May #6
+<br /> xx/May #7
+<br /> xx/May Conclusion 
+<br /> xx/May upload the course
+
+[db_Project]
+<br /> 12/May Project Initial
+<br /> 13/May connection to PostgreSQL db
+<br /> 14/May project restructure with modules/functions 
+<br /> xx/May
