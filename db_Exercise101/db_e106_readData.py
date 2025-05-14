@@ -23,15 +23,19 @@ conn.autocommit = True
 cursor = conn.cursor()
 
 #Retrieving data
-cursor.execute('''SELECT * from product''')
+# cursor.execute('''SELECT * from product''')
+sql = '''SELECT * from product'''
+
+cursor.execute(sql)
+column_names = [desc[0] for desc in cursor.description]
+for i in column_names:
+    print(i)
 
 #Fetching 1st row from the table
 result = cursor.fetchone();
 print(result)
 
-#Fetching 1st row from the table
-result = cursor.fetchall();
-print(result)
+
 
 #Commit your changes in the database
 conn.commit()
