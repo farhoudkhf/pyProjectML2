@@ -1,3 +1,11 @@
+# Data Sience and ML
+## Python for Data Science and Machine Learning Part 2
+## PostgreSQL / db_connection
+## Game rnd
+## Py_AI project
+
+<br /> 
+<br /> 
 <h1>Python for Data Science and Machine Learning Essential Training Part 2</h1>
 
 <ul>
