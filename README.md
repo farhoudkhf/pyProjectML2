@@ -33,11 +33,11 @@
 [2nd_Revised:Plan - 2025 April] 
 <br /> 16/April review Chapter #1-#2
 <br /> 17/April review Chapter #3-#4
-<br /> 15/May review Chapter #5
-<br /> 16/May #6
-<br /> xx/May #7
-<br /> xx/May Conclusion 
-<br /> xx/May upload the course
+<br /> 12/May review Chapter #5
+<br /> 14/May #6
+<br /> 15/May #7
+<br /> 15/May Conclusion 
+<br /> 15/May upload the course
 
 [db_Project]
 <br /> 12/May Project Initial
