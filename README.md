@@ -1,12 +1,13 @@
 # Data Sience and ML
 ## Python for Data Science and Machine Learning Part 2
 ## PostgreSQL / db_connection
-## Game rnd
+## py - Data Analysis
+## Games rnd
 ## Py_AI project
 
 <br /> 
 <br /> 
-<h1>Python for Data Science and Machine Learning Essential Training Part 2</h1>
+# Python for Data Science and Machine Learning Essential Training Part 2
 
 <ul>
     <li>intro</li>
@@ -19,6 +20,17 @@
     <li>#7 Getting Started with Generative AI Models</li>
     <li>Conclusion</li>
 </uk>
+
+# Python Data Analysis
+* #1 Installation and Setup 
+* #2 Data Structure in Pure Python
+* #3 Wordplay: Anagrams and Palindromes 
+* #4 Arrays with NumPy
+* #4 Arrays with NumPy
+* #5 Use Case: Weather Data
+* #6 pandas 
+* #7 Use Cases: Baby Names
+
 
 [:Plan]
 <br /> 11/Jan Sat Intro and code setups and repo [completed]
@@ -44,3 +56,6 @@
 <br /> 13/May connection to PostgreSQL db
 <br /> 14/May project restructure with modules/functions 
 <br /> xx/May
+
+
+
