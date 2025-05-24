@@ -1,9 +1,9 @@
 # Data Sience and ML [py, sql, postgreSQL]
 ### Python for Data Science and Machine Learning Part 2
 ### PostgreSQL / db_connection
-### py - Data Analysis
+### py - Data Analysis (moved to separate repo)
 ### Games rnd
-### Py_AI project
+### Py_AI project (in progress)
 
 <br /> 
 <br /> 
