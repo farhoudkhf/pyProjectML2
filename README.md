@@ -1,27 +1,24 @@
-# Data Sience and ML
-## Python for Data Science and Machine Learning Part 2
-## PostgreSQL / db_connection
-## py - Data Analysis
-## Games rnd
-## Py_AI project
+# Data Sience and ML [py, sql, postgreSQL]
+### Python for Data Science and Machine Learning Part 2
+### PostgreSQL / db_connection
+### py - Data Analysis
+### Games rnd
+### Py_AI project
 
 <br /> 
 <br /> 
-# Python for Data Science and Machine Learning Essential Training Part 2
 
-<ul>
-    <li>intro</li>
-    <li>#1 Introduction to Machine Learning</li>
-    <li>#2 Regression Models</li>
-    <li>#3 Clustering Models</li>
-    <li>#4 Dimension Reduction Methods</li>
-    <li>#5 Other Popular Machine Learning Methods</li>
-    <li>#6 Getting Started with Natural Language Processing</li>
-    <li>#7 Getting Started with Generative AI Models</li>
-    <li>Conclusion</li>
-</uk>
+## Python for Data Science and Machine Learning Essential Training Part 2
+* #1 Introduction to Machine Learning
+* #2 Regression Models
+* #3 Clustering Models
+* #4 Dimension Reduction Methods
+* #5 Other Popular Machine Learning Methods
+* #6 Getting Started with Natural Language Processing
+* #7 Getting Started with Generative AI Models
 
-# Python Data Analysis
+
+## Python Data Analysis
 * #1 Installation and Setup 
 * #2 Data Structure in Pure Python
 * #3 Wordplay: Anagrams and Palindromes 
@@ -30,6 +27,8 @@
 * #5 Use Case: Weather Data
 * #6 pandas 
 * #7 Use Cases: Baby Names
+
+
 
 
 [:Plan]
