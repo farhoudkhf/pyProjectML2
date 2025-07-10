@@ -1,4 +1,4 @@
-# Data Sience and ML [py, sql, postgreSQL]
+# Data Science and ML [py, sql, postgreSQL]
 ### Python for Data Science and Machine Learning Part 2
 ### PostgreSQL / db_connection
 ### py - Data Analysis (moved to separate repo)
